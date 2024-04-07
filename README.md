@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=About%20B&section=header&textBg=false&fontSize=30&fontAlign=50&fontAlignY=36)
----
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=About%20B&section=header&textBg=false&fontSize=30&fontAlign=50&fontAlignY=37)
 ### 👩‍💻 ***Introduction***
 - 🌏 Full-stack Developer (C#, Javascript, MySql)
 - 🩺 Healthcare Domain Expert (Hospital Information System / EDGE&NEXT)
@@ -23,3 +22,5 @@
 
 #### 🪶 ***Blog***
 - For Study https://dayofspring.tistory.com/
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false)
