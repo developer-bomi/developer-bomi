@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=About%20B&section=header&textBg=false&fontSize=30&fontAlign=50&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=About%20B&section=header&textBg=false&fontSize=30&fontAlign=50&fontAlignY=36)
 ---
 ### 👩‍💻 ***Introduction***
 - 🌏 Full-stack Developer (C#, Javascript, MySql)
